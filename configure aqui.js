@@ -1,5 +1,5 @@
 {
 	"p": "/",
-	"OwnerNumber": "559481417512", 
-	"SeuNome": "Tobi"
+	"OwnerNumber": "51957947127", 
+	"SeuNome": "𝘑𝘠ꨄ︎"
 }
